@@ -16,6 +16,10 @@ add this codes to `config/app.php`
 ```
 'Inquiry' => \Webazin\Inquiry\InquiryFacade::class,
 ```
+```
+php artisan vendor publish
+```
+and edit ``config/inquiry.php``
 
 ## Use
 
