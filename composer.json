@@ -1,0 +1,17 @@
+{
+    "name": "webazin/inquiry",
+    "description": "inquiry system for iranian - national code card number sheba ....",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Webazin\\Inquiry\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahdi farhadpour",
+            "email": "farhadpour4187@gmail.com"
+        }
+    ],
+    "require": {}
+}
